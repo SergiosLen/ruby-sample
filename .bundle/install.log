@@ -1,0 +1,9 @@
+# Logfile created on 2014-03-30 01:59:14 +0200 by logger.rb/44203
+I, [2014-03-30T01:59:14.654696 #4862]  INFO -- : 0:  daemons (1.1.9) from /home/sergios-len/.rvm/gems/ruby-2.1.0/specifications/daemons-1.1.9.gemspec
+I, [2014-03-30T01:59:31.515774 #4862]  INFO -- : 0:  eventmachine (1.0.3) from /home/sergios-len/.rvm/gems/ruby-2.1.0/specifications/eventmachine-1.0.3.gemspec
+I, [2014-03-30T01:59:34.270173 #4862]  INFO -- : 0:  rack (1.5.2) from /home/sergios-len/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-30T01:59:36.268853 #4862]  INFO -- : 0:  rack-protection (1.5.2) from /home/sergios-len/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-30T01:59:38.378160 #4862]  INFO -- : 0:  tilt (1.4.1) from /home/sergios-len/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-30T01:59:41.202304 #4862]  INFO -- : 0:  sinatra (1.4.4) from /home/sergios-len/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-30T01:59:44.992497 #4862]  INFO -- : 0:  thin (1.6.1) from /home/sergios-len/.rvm/gems/ruby-2.1.0/specifications/thin-1.6.1.gemspec
+I, [2014-03-30T01:59:44.993850 #4862]  INFO -- : 0:  bundler (1.5.0) from /home/sergios-len/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
